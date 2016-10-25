@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /nekoworks
+allow: /user/
+allow: /files
+allow: /Dowmnoad
+Disallow: /lib
+Disallow: /admin
+Disallow: /tool
+Disallow: /vendor
+Disallow: /phpmyadmin
+Disallow: /auth
