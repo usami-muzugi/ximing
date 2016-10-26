@@ -31,8 +31,8 @@ $check_min = 233;
 $check_max = 666;
 
 //name
-$site_name = "XIMING";
-$site_url  = "https://www.ximing.cf/";
+$site_name = "网站名称";
+$site_url  = "网址";
 /**
  * 站点盐值，用于加密密码
  * 第一次安装请修改此值，安装后请勿修改！！否则会使所有密码失效，仅限加密方式不为1的时候有效
@@ -76,11 +76,11 @@ $mail_smtp_Connection = "1";
 //smtp服务器端口 25 , 465 ...
 $mail_smtp_Port = 994;
 //smtp服务器
-$mail_smtp_Server = "smtp.ym.163.com";
+$mail_smtp_Server = "";
 //邮件帐号
-$mail_smtp_Account = "admin@ximing.cf";
+$mail_smtp_Account = "";
 //邮件密码
-$mail_smtp_password = "WGYdeMM123456789";
+$mail_smtp_password = "";
 
 //
 require_once 'do.php';
