@@ -74,7 +74,7 @@ $mailgun_domain = ".mailgun.org";
 //普通连接 = "0"
 $mail_smtp_Connection = "1";
 //smtp服务器端口 25 , 465 ...
-$mail_smtp_Port = 994;
+$mail_smtp_Port = ;
 //smtp服务器
 $mail_smtp_Server = "";
 //邮件帐号
