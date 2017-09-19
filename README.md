@@ -1,13 +1,3 @@
 # ximing
-this project is redevelope by sspanel-v2
+Deleted.
 
-some new fuctions:
-
-
-¡ù
-¡ù
-¡ù
-¡ù
-¡ù
-¡ù
-¡ù
